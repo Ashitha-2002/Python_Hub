@@ -1,0 +1,2 @@
+Python is a high-level, interpreted programming language known for its simplicity and readability. 
+This makes it an ideal language for beginners while still being powerful enough for experienced developers to build complex applications. 
