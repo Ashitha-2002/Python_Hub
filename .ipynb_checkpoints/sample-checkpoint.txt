@@ -1,4 +1,0 @@
-Python is a high-level, interpreted programming language known for its simplicity and readability. 
-Created by Guido van Rossum and first released in 1991, Python was designed with code readability in mind, using indentation to define code blocks instead of brackets. 
-This makes it an ideal language for beginners while still being powerful enough for experienced developers to build complex applications. 
-Its syntax is clean and easy to understand, allowing programmers to focus more on solving problems than on writing complex code structures.
